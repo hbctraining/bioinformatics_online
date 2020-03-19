@@ -6,7 +6,11 @@ This repository contains detailed guidelines and instructions for both insturcto
 * [Guidelines for instructors](guidelines/for_instructors.md)
 * [Guidelines for learners](guidelines/for_learners.md)
 
+***
+
 We have also [created a list]() of Bioinformatics Trainings available online.
+
+***
 
 A few other resources created for this purposed are listed below, we have borrowed from some of these to create our guidelines.
  * For learners and Instructors:

@@ -24,8 +24,7 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 	* have some folks turn on their video, invite about 6 people, ask questions and look to them for answers
 	* change the group of 6 for the next session
 	* Give people a way to opt out
-	* tell then it is being recorded (if recording) 
-	* Greg prefers Zoom
+	* tell then it is being recorded (if recording)
 
 * Give a tour at the start, i.e. how to use the tools
 

@@ -128,4 +128,4 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 
 * Flipped classrooms are well suited for this setup
 
-
+* I asked about captioning live-streaming content and Greg said he provides class notes for the most part. But can look into it more if I email him - will update with more information if/when I have it

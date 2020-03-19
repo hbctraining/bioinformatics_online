@@ -64,7 +64,8 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 
 	* make cursor larger - mac has the option
 	* use high-contrast mode (where?)
-	* Keycasting mode (?) - keycasters
+	* Keycasting mode (?) - keycasters 
+	* [https://github.com/keycastr/keycastr](https://github.com/keycastr/keycastr)
 
 * Teach from your smallest screen
 

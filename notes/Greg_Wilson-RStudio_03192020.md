@@ -66,6 +66,7 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 	* use high-contrast mode (where?)
 	* Keycasting mode (?) - keycasters 
 	* [https://github.com/keycastr/keycastr](https://github.com/keycastr/keycastr)
+	* I asked about captioning live-streaming content and Greg said he provides class notes for the most part. But can look into it more if I email him - will update with more information if/when I have it
 
 * Teach from your smallest screen
 
@@ -123,5 +124,3 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 * Ask people how they want to be addressed? When? Ask people what pronoun they prefer.
 
 * Flipped classrooms are well suited for this setup
-
-* I asked about captioning live-streaming content and Greg said he provides class notes for the most part. But can look into it more if I email him - will update with more information if/when I have it

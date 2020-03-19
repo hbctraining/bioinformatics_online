@@ -2,6 +2,8 @@
 
 Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 
+*Please note that a lot of these points are my takeaways and not exactly what was said.*
+
 * DONT CHANGE WHAT YOU DONT HAVE TO!!
 
 * quoted elizabeth wickes' quote about NOT ASSUMING - ask people what they know, don't know etc.
@@ -124,4 +126,6 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 
 * Over the class period, introduce new technologies, e.g. Zoom first, then later google doc, poll everywhere?
 
-* Flipped classrooms - record videos first.
+* Flipped classrooms are well suited for this setup
+
+

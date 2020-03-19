@@ -1,5 +1,5 @@
 ## Online Bioinformatics Training
-***Preparation instructions for online learning and teaching, with a focus on Bioinformatics trainings.***
+***Preparation instructions for online learning and teaching, with a focus on Bioinformatics.***
 
 This repository contains detailed instructions for both insturctors and learners joining online workshops with the [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu). 
 

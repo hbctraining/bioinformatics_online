@@ -1,8 +1,11 @@
 **Greg Wilson, RStudio - 3/19/2020**
 
+Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
+
 * DONT CHANGE WHAT YOU DONT HAVE TO!!
 
-* quoted elizabeth wickes about NOT ASSUMING - ask people
+* quoted elizabeth wickes' quote about NOT ASSUMING - ask people what they know, don't know etc.
+	* *don’t presume people have {thing}, have great {thing}, have {thing} to themselves, or even have a home where {thing} could be.  For each thing, fill in:  internet, computer, monitor, attention, etc.*
 
 * Dont try to be or beat recorded video! (It requires time and money.)
 
@@ -17,6 +20,7 @@
 
 	* don't do this?
 	* have some folks turn on their video, invite about 6 people, ask questions and look to them for answers
+	* change the group of 6 for the next session
 	* Give people a way to opt out
 	* tell then it is being recorded (if recording) 
 	* Greg prefers Zoom

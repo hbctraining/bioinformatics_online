@@ -31,6 +31,7 @@
 	* /hand when they want to speak
 	* lots of directions verbally (even if they are written out)
 	* conventions for a given workshop provider might be different so clear instructions are appreciated
+	* No one speaks until they are invited to speak
 
 * "Mute all" and have people raise hands to speak.
 
@@ -119,8 +120,4 @@
 
 * Over the class period, introduce new technologies, e.g. Zoom first, then later google doc, poll everywhere?
 
-
-
-
-
-
+* Flipped classrooms - record videos first.

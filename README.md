@@ -13,8 +13,8 @@ A few other resources created for this purposed are listed below, we have borrow
     * [https://github.com/hbs-rcs/remote_learning](https://github.com/hbs-rcs/remote_learning)
     
  * For instructors:
-    * From [@elliewix](https://github.com/elliewix) [https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)
-    * From [@carpentries](https://github.com/carpentries) [https://carpentries.github.io/instructor-training/guide/index.html#zoom](https://carpentries.github.io/instructor-training/guide/index.html#zoom)
+    * From [@elliewix](https://github.com/elliewix) - [https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)
+    * From [@carpentries](https://github.com/carpentries) - [https://carpentries.github.io/instructor-training/guide/index.html#zoom](https://carpentries.github.io/instructor-training/guide/index.html#zoom)
 
 *PS - We realize this is highlighting the redundancy in the information available out there, but our purpose was to generate specific instructions for our learners while also pooling resources.*
 

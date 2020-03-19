@@ -24,5 +24,5 @@ A few other resources created for this purposed are listed below, we have borrow
 
 ## Community effort
 
-We want to encourage the community to add resources here! Please make changes and create a pull request or [email us](mailto:hbctraining@hsph.harvard.edu) with your resources or suggestion for modifications.
+We want to encourage the community to add resources here! Please make changes and create a pull request or [email us](mailto:hbctraining@hsph.harvard.edu) with your resources or suggestions for modifications.
 

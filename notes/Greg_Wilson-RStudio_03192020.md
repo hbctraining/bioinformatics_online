@@ -5,7 +5,7 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 * DONT CHANGE WHAT YOU DONT HAVE TO!!
 
 * quoted elizabeth wickes' quote about NOT ASSUMING - ask people what they know, don't know etc.
-	* *don’t presume people have {thing}, have great {thing}, have {thing} to themselves, or even have a home where {thing} could be.  For each thing, fill in:  internet, computer, monitor, attention, etc.*
+	* "*don’t presume people have {thing}, have great {thing}, have {thing} to themselves, or even have a home where {thing} could be.  For each thing, fill in:  internet, computer, monitor, attention, etc.*"
 
 * Dont try to be or beat recorded video! (It requires time and money.)
 

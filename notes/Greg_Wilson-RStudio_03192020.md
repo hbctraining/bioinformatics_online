@@ -20,15 +20,15 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 
 * Really hard to teach to empty chairs
 
-	* don't do this?
-	* have some folks turn on their video, invite about 6 people, ask questions and look to them for answers
+	* have some folks turn on their video, invite about 6 people and look to them for answers/nods during class
 	* change the group of 6 for the next session
-	* Give people a way to opt out
-	* tell then it is being recorded (if recording)
+	* remember not everyone will want to have their video on
+	* [add on from me] tell then it is being recorded (if recording)
 
 * Give a tour at the start, i.e. how to use the tools
 
 	* generate instructions when logged in as a user (non-host)
+	* Over the class period, introduce new technologies, e.g. Zoom first, then later google doc, poll everywhere?
 
 * Direct traffic, a lot of verbal cues
 
@@ -52,15 +52,13 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 
 * Don't teach alone
 
-* Do a dry run with your copilot
+* Do a dry run with your copilot(s)
+	* they can help you with challenges that you might encounter, e.g. firewalls for data access, zoom controls have changed
+	* take 10-30 minutes for set up, role designation and a conversation about rules before class begins
 
-	* firewalls for data access
-	* zoom controls have changed
-	* 30 minutes for set up and with other instructors
+* Have your notes beside you to avoid unflattering/distracting video (no nose cam)
 
-* Have your notes beside you to avoid unflattering and distracting video
-
-* Give notes to students (we are set with our lessons)
+* Give your class notes to students 
 
 * Use accesibility tools for eveyone
 
@@ -122,8 +120,6 @@ Note taker: Radhika Khetani (rkhetani at hsph dot harvard.edu)
 * Brookfield and Preskill "The Discussion Book"
 
 * Ask people how they want to be addressed? When? Ask people what pronoun they prefer.
-
-* Over the class period, introduce new technologies, e.g. Zoom first, then later google doc, poll everywhere?
 
 * Flipped classrooms are well suited for this setup
 

@@ -10,7 +10,7 @@
      * Disable “File Transfer” so there's no digital virus sharing
      * Disable “Allow Removed Participants to Rejoin” so booted attendees can't slip back in
 
-
+https://answers.uillinois.edu/98799
 
 ### Potential issues during the teaching:
 * What earphone to use to ensure best speaking quality

@@ -1,16 +1,16 @@
 In this document we will lay out guidelines for various aspects of teaching online, and have categorized the guidelines keeping in mind the timeline of a workshop.
 
-## Setting up prior to workshop
+### [Instructor] Setting up prior to workshop
 
 
-## First contact with learners
+### [Instructor] First contact with learners
 
 
-## Wrapping up
+### [Instructor] Wrapping up
 
 
-## Follow up
+### [Instructor] Follow up
 
 
-## Odds and ends
+### [Instructor] Odds and ends
 

@@ -10,7 +10,7 @@ We have also [created a list]() of Bioinformatics Trainings available online.
 
 A few other resources created for this purposed are listed below, we have borrowed from some of these to create our guidelines.
  * For learners and Instructors:
-    * https://github.com/hbs-rcs/remote_learning
+    * [https://github.com/hbs-rcs/remote_learning]()
     
  * For instructors:
     * https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/

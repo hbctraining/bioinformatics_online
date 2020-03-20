@@ -1,6 +1,6 @@
 In this document we will lay out guidelines for various aspects of teaching online, and have categorized the guidelines keeping in mind the timeline of a workshop.
 
-#### Setting up prior to workshop
+## Setting up prior to workshop
 
 * Designate roles - at least 3 instructors needed for smooth sailing and the roles are listed below. These roles will rotate among the 3 people during the workshop.  
      1. **Presenter**
@@ -20,7 +20,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
   * Use an external mic if possible and make sure it is close to your mouth but away from the keyboard (to the best of your ability)
   * Install and use [keycastr](https://github.com/keycastr/keycastr) so learners can see the keyboard keys being used by the instructor.
 
-#### First contact with learners
+## First contact with learners
 
 * Go over learner instructions in this repo
 * Introduce PollEverywhere as the place to ask questions and upvote others' questions
@@ -28,7 +28,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
 * Explain the additional breaks in the schedule
 * Point out the output of keycastr
 
-#### During class
+## During class
 
 * Presenters
      * Wait for a little longer than usual for learners to respond
@@ -48,11 +48,10 @@ In this document we will lay out guidelines for various aspects of teaching onli
      * Ask Meeting controller for help if needed
      * Ask Presenter to stop or slow down as needed based on influx of questions
 
-#### Wrapping up
+## Wrapping up
 
 
-#### Follow up
+## Follow up after class
 
 
-#### [Instructor] Odds and ends
 

@@ -15,6 +15,10 @@ This page is our effort to curate training content available online for bench bi
   * *Highlight* "HarvardX Biomedical Data Science Open Online Training" (related to EdX course) http://rafalab.github.io/pages/harvardx.html (Video content)
 * Sean Davis' list of "Teaching and Learning Materials" for the "CSHL Statistical Methods for Functional Genomics" course - https://seandavi.github.io/ITR/?utm_source=reply&utm_medium=twitter&utm_campaign=itr
 
+* Learning R using online coding platform - https://www.codecademy.com/learn/learn-r
+
+* Learning Python using online coding platform - https://www.codecademy.com/learn/learn-python
+
 ## EdX/Coursera
 
 * "Data Analysis for Life Science" with Rafa Irizarry https://courses.edx.org/dashboard/programs/e15999cc-51c8-4be0-a482-9d67b4626250/

@@ -1,8 +1,8 @@
 # Introduction
 
-The lists below are curated by our team with help from many sources and conversations on Twitter. This list is not complete and we are thinking about this as a work in progress, and welcome all suggestions for expanding the list!
+This page is our effort to curate training content available online for bench biologists who want to learn bioinformatics.
 
-Please update and create a pull request or [email us](mailto:hbctraining@hsph.harvard.edu) with suggestions!
+We created this list with help from many sources and conversations on Twitter. This list is not complete and we are thinking about this as a work in progress. We gratefully welcome all suggestions for expanding the list, so please update and create a pull request or [email us](mailto:hbctraining@hsph.harvard.edu) with suggestions!
 
 ## Online
 

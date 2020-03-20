@@ -8,7 +8,7 @@ This repository contains detailed guidelines and instructions for both insturcto
 
 ***
 
-We have also [created a list]() of Bioinformatics Trainings available online.
+We have also [created a list](lists/online_trainings.md) of Bioinformatics Trainings available online.
 
 ***
 

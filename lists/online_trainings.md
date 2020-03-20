@@ -82,4 +82,3 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 * [This Reddit thread](https://www.reddit.com/r/bioinformatics/comments/fiwtwx/working_from_home_i_made_a_guide_to_help_wet_lab/) has some good suggestions for wet-lab biologists
 
 ***
-***

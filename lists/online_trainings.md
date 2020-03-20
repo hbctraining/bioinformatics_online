@@ -14,7 +14,7 @@ This page is our effort (Harvard Chan Bioinformatics Core or HBC) to curate trai
   * [Chip-seq](#chip-seq-analysis)
 * [Other online resources](#other-online-resources)
   * [General topics](#general-topics)
-  * [EdX/Coursera](#edx-coursera)
+  * [EdX/Coursera](#edxcoursera)
   * [Books](#books)
   * [Lists of resources from other sources](#lists-of-resources-from-other-sources)
 

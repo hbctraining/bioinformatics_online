@@ -1,6 +1,6 @@
 # Introduction
 
-This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu/) or **HBC**) to curate training content available online for bench biologists who want to learn bioinformatics. We have divided the content between general resources and content specific resources.
+This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu/) or **HBC**) to curate **training content available online for wet-bench biologists** who want to learn bioinformatics. We have divided the content between general resources and content specific resources.
 
 *We created this list with help from many sources and conversations on Twitter. This list is not complete and we are thinking about this as a work in progress. We gratefully welcome all suggestions for expanding the list, so please update and create a pull request or [email us](mailto:hbctraining@hsph.harvard.edu) with suggestions!* 
 

@@ -13,6 +13,8 @@ In this document we will lay out guidelines for various aspects of teaching onli
   * Disable “File Transfer”
   * Disable “Allow Removed Participants to Rejoin”
   * Mute all participants
+  * Disable students to send chat to everyone
+  * Allow only host to share screen
 
 * As a Presenter (or anyone sharing their screens), please make sure your computer is set up appropriately:
   * Quit all applications that are not required for class, especially if they generate notifications
@@ -27,6 +29,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
 * Briefly explain triaging and that presenter will be mostly addressing questions at the end
 * Explain the additional breaks in the schedule
 * Point out the output of keycastr
+* Shall we allow students to do recording if they want to? (potential copy right issue, but they may want to re-check lesson afterwards)
 
 ## During class
 
@@ -35,16 +38,25 @@ In this document we will lay out guidelines for various aspects of teaching onli
      * Ask for a few learners to turn their videos on so you are not teaching to a screen
      * Don't worry if you slip up, correct yourself and restart
      * Ask for help from the other instructors and focus on teaching
+     * Use poll function to ask questions (yes/no, multiple choice) that we normally ask. The polls can be prepared in advance, in the zoom meeting page.
+     * When sharing screen, there is option to share only one app. (May not apply, as we shift between apps)
+     * Make sure the font is big enough to see. In sharing mode, font size tends to be smaller.
+     * Use spotlight view mode, so that the view does not transit to others due to coughing etc.
 * Meeting-controllers
      * Mute and unmute learners as requested by presenter
      * Monitor for technical difficulties
      * Watch the "thumbs up" and "thumbs down" icon in the participant list to help presenter assess if they need to re-explain something, slow down.
      * Help the troubleshooter with questions from class (use your judgement to prioritize this over monitoring)
+     * Avoid students sending message in the chat room (it will notify everyone, and is disruptive). Only allow them to send private message to troubleshooter.
+     * Initiate a quick survey after 1st session, and ask students what technical problem they encountered.
 * Troubleshooter 
      * Watch Zoom Chat or PollEverywhere for questions and categorize them into 3 groups.
           1. Save some for end of class (feel free to summarize) 
           1. Give some to presenter when she/he asks for questions (feel free to summarize)
           1. Answer them in a DM if you are able to help in 1-2 minutes and don't think the class will benefit from the question
+     * Zoom breakout room specifics:
+          1. Depending on how many questions we get, we can organize 2-3 breakout rooms at the end of each session, making sure that we solve all questions for each session before moving forward. 
+          1. Students have no option to join which breakout room. We have to assign them.
      * Ask Meeting controller for help if needed
      * Ask Presenter to stop or slow down as needed based on influx of questions
 

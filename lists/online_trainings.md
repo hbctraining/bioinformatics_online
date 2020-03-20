@@ -4,6 +4,23 @@ This page is our effort (Harvard Chan Bioinformatics Core or HBC) to curate trai
 
 *We created this list with help from many sources and conversations on Twitter. This list is not complete and we are thinking about this as a work in progress. We gratefully welcome all suggestions for expanding the list, so please update and create a pull request or [email us](mailto:hbctraining@hsph.harvard.edu) with suggestions!* 
 
+## Table of contents
+
+* [Topic-specific online resources](#topic-specific-online-resources)
+  * [R](#r)
+  * [Shell](#shell)
+  * [Bulk RNA-seq](#bulk-rna-seq-analysis)
+  * [Single-cell RNA-seq](#single-cell-rna-seq-analysis)
+  * [Chip-seq](#chip-seq-analysis)
+* [Other online resources](#other-online-resources)
+  * [General topics](#general-topics)
+  * [EdX/Coursera](#edx-coursera)
+  * [Books](#books)
+  * [Lists of resources from other sources](#lists-of-resources-from-other-sources)
+
+***
+***
+
 # Topic-specific online resources
 
 ## R
@@ -37,8 +54,11 @@ This page is our effort (Harvard Chan Bioinformatics Core or HBC) to curate trai
 * HBC's ChIP-seq Analysis workshop - https://hbctraining.github.io/Intro-to-ChIPseq/
 * Rafa Irizarry's ChIP-seq Analysis (part of PH525X series Biomedical Data Science book) - http://genomicsclass.github.io/book/pages/ChIPseq.html
 
+***
 
-# General online resources
+# Other online resources
+
+## General topics
 
 * HBC's Short workshops - https://hbctraining.github.io/Training-modules/
 * List of online courses from Rafa Irizarry - http://rafalab.github.io/pages/teaching.html
@@ -58,6 +78,9 @@ This page is our effort (Harvard Chan Bioinformatics Core or HBC) to curate trai
 * Online Book "[Modern Statistics for Biology](http://web.stanford.edu/class/bios221/book/)" by Susan Holmes and Wokfgang Huber - 
 * "[Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)" by Vince Buffalo 
 
-## Lists from other folks
+## Lists of resources from other sources
 
 * [This Reddit thread](https://www.reddit.com/r/bioinformatics/comments/fiwtwx/working_from_home_i_made_a_guide_to_help_wet_lab/) has some good suggestions for wet-lab biologists
+
+***
+***

@@ -3,9 +3,9 @@ In this document we will lay out guidelines for various aspects of teaching onli
 #### [Instructor] Setting up prior to workshop
 
 * Designate roles - at least 3 instructors needed for smooth sailing and the roles are listed below. These roles will rotate among the 3 people during the workshop.  
-     1 **Presenter**
-     1 **Meeting Controller** (Host/co-hosts) - Host starts the meeting with designated co-host(s). They with full control of the Zoom Meeting to enable muting/unmuting participants, solve any technical problems, create breakout rooms. 
-     1 **Troubleshooter** - Checks the Chat and PollEverywhere for questions from participants and is on call to help participants troubleshoot. This trouble shooting can be triaged, with more involved problems set aside for end of section to enable the presenter to step in and help. More about triaging in the "[During Class](during-class)" section.
+     1. **Presenter**
+     1. **Meeting Controller** (Host/co-hosts) - Host starts the meeting with designated co-host(s). They with full control of the Zoom Meeting to enable muting/unmuting participants, solve any technical problems, create breakout rooms. 
+     1. **Troubleshooter** - Checks the Chat and PollEverywhere for questions from participants and is on call to help participants troubleshoot. This trouble shooting can be triaged, with more involved problems set aside for end of section to enable the presenter to step in and help. More about triaging in the "[During Class](during-class)" section.
 
 * Meeting Host will set up Zoom with the following settings:
   * Disable “Join Before Host”

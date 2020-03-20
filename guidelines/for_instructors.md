@@ -15,6 +15,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
   * Mute all participants
   * Disable students to send chat to everyone
   * Allow only host to share screen
+  * In share screen setting, uncheck first box (enter full screen). May need all students to do this.
 
 * As a Presenter (or anyone sharing their screens), please make sure your computer is set up appropriately:
   * Quit all applications that are not required for class, especially if they generate notifications
@@ -49,6 +50,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
      * Help the troubleshooter with questions from class (use your judgement to prioritize this over monitoring)
      * Avoid students sending message in the chat room (it will notify everyone, and is disruptive). Only allow them to send private message to troubleshooter.
      * Initiate a quick survey after 1st session, and ask students what technical problem they encountered.
+     * Take a break at least every one hour
 * Troubleshooter 
      * Watch Zoom Chat or PollEverywhere for questions and categorize them into 3 groups.
           1. Save some for end of class (feel free to summarize) 
@@ -57,11 +59,13 @@ In this document we will lay out guidelines for various aspects of teaching onli
      * Zoom breakout room specifics:
           1. Depending on how many questions we get, we can organize 2-3 breakout rooms at the end of each session, making sure that we solve all questions for each session before moving forward. 
           1. Students have no option to join which breakout room. We have to assign them.
+          1. For really complicated problem, another option is to share personal zoom link, and start one on one meeting. 
      * Ask Meeting controller for help if needed
      * Ask Presenter to stop or slow down as needed based on influx of questions
 
 ## Wrapping up
 
+* Finish modified post-class survey
 
 ## Follow up after class
 

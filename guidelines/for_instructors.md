@@ -44,7 +44,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
      * Watch Zoom Chat or PollEverywhere for questions and categorize them into 3 groups.
           1. Save some for end of class (feel free to summarize) 
           1. Give some to presenter when she/he asks for questions (feel free to summarize)
-          1. Answer them in a DM if you are able to help in 1-2 minutes and don't think the class will benefit from it
+          1. Answer them in a DM if you are able to help in 1-2 minutes and don't think the class will benefit from the question
      * Ask Meeting controller for help if needed
      * Ask Presenter to stop or slow down as needed based on influx of questions
 

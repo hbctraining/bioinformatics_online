@@ -14,6 +14,8 @@ These guidelines are for learners taking a hands-on workshop online
 ### Getting started
 
 * Quit/minimize all applications that are not required for class
+* Mute yourself (the meeting host will do this, if you don't)
+* Video is not needed to join the classroom, but if you are comfortable the instructor might ask you to start it.
 * Find the Chat window in Zoom
 * Find the following button within the Chat sidebar
   * Raise hand

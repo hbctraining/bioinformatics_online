@@ -6,7 +6,7 @@ These guidelines are for learners taking a hands-on workshop online
 * Quit/minimize all applications that are not required for class
 * Download all required packages and install all required applications
   * Email the HBC Training Team if any of the downloads/installations are problematic
-* Check sound quality on laptop
+* Check sound quality on laptop and use headphones if possible
 * We will be using Zoom for the workshop
   * We will provide a URL that can be used to join the classroom/meeting with a web browser or with the Zoom app
   * A Zoom account is NOT needed to join the class

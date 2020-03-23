@@ -26,6 +26,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
 ## First contact with learners
 
 * Go over learner instructions in this repo
+* Lead learners through practicing raising their hands
 * Introduce PollEverywhere as the place to ask questions and upvote others' questions
 * Briefly explain triaging and that presenter will be mostly addressing questions at the end
 * Explain the additional breaks in the schedule

@@ -30,7 +30,7 @@ These guidelines are for learners taking a hands-on workshop online
        
        * Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
          
-![rstudio_screens](img/Screenshot 2020-03-23 15.21.10.png)
+![rstudio_screens](../img/Screenshot 2020-03-23 15.21.10.png)
      
      * Teaching shell:
        

@@ -31,7 +31,7 @@ These guidelines are for learners taking a hands-on workshop online
        * Zoom screen in upper right-hand half of screen, shell is left-hand half of screen with shell, and materials on the lower right-hand half of screen.
 
 
-### During workshop - Getting questions answered, troubleshooting, etc.
+### During the workshop
 
 #### Following along
 

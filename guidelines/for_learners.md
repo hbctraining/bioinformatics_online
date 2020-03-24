@@ -27,6 +27,7 @@ These guidelines are for learners taking a hands-on workshop online
   - Examples:
      * Teaching R with RStudio:
        * Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
+         ![matching2](../img/)
      * Teaching shell:
        * Zoom screen in upper right-hand half of screen, shell is left-hand half of screen with shell, and materials on the lower right-hand half of screen.
 
@@ -54,6 +55,6 @@ These guidelines are for learners taking a hands-on workshop online
 * After each lesson, we will take a 5-10 minute break. The Presenter will inform you of the break.
 
 
-### [Learner] Follow up
+###  Workshop follow up
 
 * If questions come up after the workshop, then please email hbctraining@hsph.harvard.edu.

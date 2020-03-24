@@ -48,12 +48,12 @@ These guidelines are for learners taking a hands-on workshop online
 * **Conceptual learner questions:** 
   - When the Presenter asks for questions, then you can raise hand and instructor may call on you to ask. There is no guarantee that all questions will be addressed.
   - If question can wait until the end of the lesson, then post question in PollEverywhere and/or upvote relevant questions within PollEverywhere.
-
+  - We will be using PollEverywhere to answer questions at the end of each lesson throughout the workshop. You can connect to our PollEverywhere questions at any time during the workshop at PollEv.com/hbctraining945.
+  
 #### Transitions between lessons and breaks
 
-* After each lesson, we will take a 5-10 minute break. The Presenter will inform you of the break.
-
+After each lesson, we will take a 5-10 minute break. The Presenter will inform you of the break.
 
 ###  Workshop follow up
 
-* If questions come up after the workshop, then please email hbctraining@hsph.harvard.edu.
+If any questions come up after the workshop, then please email hbctraining@hsph.harvard.edu.

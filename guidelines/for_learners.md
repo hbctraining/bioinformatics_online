@@ -24,11 +24,16 @@ These guidelines are for learners taking a hands-on workshop online
   * Check mark (equivalent to a green post-it) - "agree", "I'm ok"
   * Cross mark (equivalent to a red post-it) - "disagree", "I need help", "unsure"
 * Set up the windows to best follow the workshop. 
+  
   - Examples:
      * Teaching R with RStudio:
+       
        * Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
+         
          ![rstudio_screens](../img/Screenshot 2020-03-23 15.21.10.png)
+     
      * Teaching shell:
+       
        * Zoom screen in upper right-hand half of screen, shell is left-hand half of screen with shell, and materials on the lower right-hand half of screen.
 
 

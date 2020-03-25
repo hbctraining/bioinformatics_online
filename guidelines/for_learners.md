@@ -15,7 +15,7 @@ These guidelines are for learners taking a hands-on workshop online
 
 * Quit/minimize all applications that are not required for class
 * Mute yourself (the meeting host will do this, if you don't)
- <img src="img/.png" width="500">
+    <img src="img/.png" width="500">
 * Do not share your screen.
 * Turn off video?
   <img src="img/.png" width="500">

@@ -19,6 +19,7 @@ In this document we will lay out guidelines for various aspects of teaching onli
   * In share screen setting, uncheck first box (enter full screen). May need all students to do this.
   * Do not allow participants to record.
   * Switch Host role to Troubleshooter so that Troubleshooter can enter any breakout room.
+  * In zoom setting, under "play sound when participants join or leave", check "Heard by host only"
 
 * As a Presenter (or anyone sharing their screens), make sure computer is set up appropriately:
   * Quit all applications that are not required for class, especially if they generate notifications

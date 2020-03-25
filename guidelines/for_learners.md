@@ -1,6 +1,6 @@
-These guidelines are for learners taking a hands-on workshop online
+# Guidelines for learners
 
-### Setting up prior to workshop
+These guidelines are for learners taking a hands-on workshop online with the [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu)
 
 * Quit/minimize all applications that are not required for class
 * Download all required packages and install all required applications

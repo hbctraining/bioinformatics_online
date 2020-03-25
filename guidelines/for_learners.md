@@ -2,6 +2,8 @@
 
 These guidelines are for learners taking a hands-on workshop online with the [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu)
 
+### Setting up prior to workshop
+
 * Quit/minimize all applications that are not required for class
 * Download all required packages and install all required applications
   * Email the HBC Training Team if any of the downloads/installations are problematic

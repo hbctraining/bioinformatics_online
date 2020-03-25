@@ -15,21 +15,21 @@ These guidelines are for learners taking a hands-on workshop online
 
 * Quit/minimize all applications that are not required for class
 * Mute yourself (the meeting host will do this, if you don't)
-    <img src="img/.png" width="500">
+<img src="img/.png" width="500">
 * Do not share your screen.
 * Turn off video?
-  <img src="img/.png" width="500">
+<img src="img/.png" width="500">
 * In share screen setting, uncheck first box (enter full screen)
-  <img src="img/.png" width="500">
+<img src="img/.png" width="500">
 * Find the Chat window in Zoom
-  <img src="img/.png" width="500">
+<img src="img/.png" width="500">
 * Find the following buttons within the Chat sidebar
   * Raise hand
-    <img src="img/.png" width="500">
+  <img src="img/.png" width="500">
   * Check mark (equivalent to a green post-it) - "agree", "I'm ok"
-    <img src="img/.png" width="500">
+  <img src="img/.png" width="500">
   * Cross mark (equivalent to a red post-it) - "disagree", "I need help", "unsure"
-    <img src="img/.png" width="500">
+  <img src="img/.png" width="500">
 * Set up the windows to best follow the workshop. 
   - Examples:
      * Teaching R with RStudio:
@@ -53,12 +53,12 @@ These guidelines are for learners taking a hands-on workshop online
 * **Presenter questions:** The Presenter will ask questions of the learners throughout the workshop and will ask for responses via red/green stickies or raised hands. Presenter may call on those with green stickies to provide answers or those with red or no stickies to determine any problems.
 
 * **Technical learner questions:** Direct message the person labelled as 'Troubleshooter' with a description of the problem. Troubleshooter may be able to solve problem through direct message, but may ask you to join a breakout room to discuss in person, if necessary.
-  <img src="img/.png" width="500">
+<img src="img/.png" width="500">
 
 * **Conceptual learner questions:** 
   - When the Presenter asks for questions, then you can raise hand and instructor may call on you to ask. There is no guarantee that all questions will be addressed.
   - If question can wait until the end of the lesson, then post question in PollEverywhere and/or upvote relevant questions within PollEverywhere.
-    <img src="img/.png" width="500">
+  <img src="img/.png" width="500">
   - We will be using PollEverywhere to answer questions at the end of each lesson throughout the workshop. You can connect to our PollEverywhere questions at any time during the workshop at PollEv.com/hbctraining945.
   
 #### Transitions between lessons and breaks

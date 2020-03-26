@@ -29,11 +29,28 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 
 * Quit/minimize all applications that are not required for class
 
-* If you are **using the Zoom app**, please make sure you go to the "Share Screen" preferences and *uncheck* the "Enter full screen when a participant share screen" option.
-<img src="img/Share_screen_preferences.png" width="500">
+* If you are **using the Zoom app**, please make sure you go to the "Share Screen" preferences and *uncheck* the "Enter full screen when a participant share screen" option (red box in the screenshot below). This will make sure your Zoom app window does not take over your screen when the Presenter shares their screen.
+<p align="center">
+<img src="img/Share_screen_preferences.png" width="600">
+</p>
+
+* Make sure you are muted during the workshop (the meeting host will do this, if you don't). The meeting host will unmute you as needed.
+
+<p align="center">
+<img src="img/icons_audio.png" width="900">
+</p>
+
+* Video is optional and it is up to you if you keep it on or off.
+
+<p align="center">
+<img src="img/icons_video.png" width="900">
+</p>
 
 * Open the Chat and Participant windows in Zoom
-<img src="img/.png" width="500">
+<p align="center">
+<img src="img/icons_chat-participants.png" width="900">
+<img src="img/chat-participants.png" width="300">
+</p>
 
 * Find the following buttons within the Chat sidebar
   * Raise hand
@@ -45,18 +62,12 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
   * Cross mark (equivalent to a red post-it) - "disagree", "I need help", "unsure"
   <img src="img/.png" width="500">
 
-* Make sure you are muted during the workshop (the meeting host will do this, if you don't). The meeting host will unmute you as needed.
-<img src="img/.png" width="500">
-
-* Video is optional and it is up to you if you keep it on or off.
-<img src="img/.png" width="500">
-
 * Set up your windows to best follow the workshop. You will have 3 windows open, (1) Zoom, (2) Class lessons and (3) RStudio or Terminal. See below for an example
    * Example: Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
    <p align="center">
    <img src="img/Screenshot%202020-03-23%2015.21.10.png" width="500">
    </p>
-
+   
 ### During the workshop
 
 #### Following along
@@ -66,6 +77,8 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 * **If Zoom gets disconnected**, just use the same meeting link used to connect initially to re-connect. Use the workshop materials to catch up, and, if unable to catch up on your own, direct message the Troubleshooter.
 
 * **Do not share your screen**, unless an instructor asks you to share for troubleshooting purposes.
+
+* **Recording is not allowed at this time.** Please *do not use* the recording functionality in Zoom.
 
 #### Questions
 
@@ -87,4 +100,4 @@ After each lesson, we will take a 5-10 minute break. The Presenter will inform y
 
 ###  Workshop follow up
 
-If any questions come up after the workshop, then please email hbctraining@hsph.harvard.edu.
+If any questions come up after the workshop, then please email us at [hbctraining@hsph.harvard.edu](mailto:hbctraining@hsph.harvard.edu).

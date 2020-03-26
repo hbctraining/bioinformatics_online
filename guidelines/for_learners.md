@@ -52,15 +52,15 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 <img src="img/chat-participants.png" width="300">
 </p>
 
-* Find the following buttons within the Chat sidebar
-  * Raise hand
-  <img src="img/.png" width="500">
-  
-  * Check mark (equivalent to a green post-it) - "agree", "I'm ok"
-  <img src="img/.png" width="500">
-  
-  * Cross mark (equivalent to a red post-it) - "disagree", "I need help", "unsure"
-  <img src="img/.png" width="500">
+* Use the buttoms at the bottom of the Participants sidebar
+  * ***Raise hand*** when you have a question for the Presenter. Please note that if the presenter doesn't call on you to unmute yourself and ask this question, we recommend posting this question at [PollEv.com/hbctraining945](PollEv.com/hbctraining945).
+  * Click on the ***white check mark in green circle*** (yes) to indicate "agree", "I'm all set" *(equivalent to a green post-it)*
+  * Click on the ***white "X" in red circle*** (no) to indicate "disagree", "I need help" *(equivalent to a red post-it)*
+  * We won't be utilizing the rest of the buttons here
+
+<p align="center">
+<img src="img/participants_icons2.png" width="400">
+</p>
 
 * Set up your windows to best follow the workshop. You will have 3 windows open, (1) Zoom, (2) Class lessons and (3) RStudio or Terminal. See below for an example
    * Example: Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
@@ -84,19 +84,22 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 
 * **Presenter questions:** The Presenter will ask questions of the learners throughout the workshop and will ask for responses via red/green stickies or raised hands. Presenter may call on those with green stickies to provide answers or those with red or no stickies to determine any problems.
 
-* **Technical learner questions:** Direct message the person labelled as 'Troubleshooter' with a description of the problem. Troubleshooter may be able to solve problem through direct message, but may ask you to join a breakout room to discuss in person, if necessary.
-<img src="img/.png" width="500">
+* **Technical learner questions:** Start a chat with the host with a description of the problem. They may be able to solve problem through direct message, but may ask you to join a breakout room to discuss one-on-one with screensharing, if he/she deems it necessary.
 
 * **Conceptual learner questions:** 
   - When the Presenter asks for questions, then you can raise hand and instructor may call on you to ask. There is no guarantee that all questions will be addressed.
-  - If question can wait until the end of the lesson, then post question in PollEverywhere and/or upvote relevant questions within PollEverywhere.
-  <img src="img/.png" width="500">
-  
-  - We will be using PollEverywhere to answer questions at the end of each lesson throughout the workshop. You can connect to our PollEverywhere questions at any time during the workshop at PollEv.com/hbctraining945.
+  - Post any unasked/unanswered questions in PollEverywhere and/or upvote relevant questions within [PollEv.com/hbctraining945](PollEv.com/hbctraining945).  
+  - You can connect to our PollEverywhere poll at any time during the workshop at [PollEv.com/hbctraining945](PollEv.com/hbctraining945).
+  - We will address all the pertinent questions posted on PollEverywhere at the end of each lesson. 
   
 #### Transitions between lessons and breaks
 
-After each lesson, we will take a 5-10 minute break. The Presenter will inform you of the break.
+* After each lesson, we will take a 5-10 minute break. The Presenter will inform you of the break.
+
+* If your video is turned off need and you need to move away from the computer for a few minutes, please use the coffee-cup icon to indicate that you are away.
+   <p align="center">
+   <img src="img/break.png" width="500">
+   </p>
 
 ###  Workshop follow up
 

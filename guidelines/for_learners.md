@@ -98,7 +98,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 
 * If your video is turned off need and you need to move away from the computer for a few minutes, please use the coffee-cup icon to indicate that you are away.
    <p align="center">
-   <img src="img/break.png" width="300">
+   <img src="img/break.png" width="400">
    </p>
 
 ###  Workshop follow up

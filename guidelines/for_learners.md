@@ -49,7 +49,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 * Open the Chat and Participant windows in Zoom
 <p align="center">
 <img src="img/icons_chat-participants.png" width="900">
-<img src="img/chat-participants.png" width="300">
+<img src="img/chat-participants2.png" width="300">
 </p>
 
 * Use the buttoms at the bottom of the Participants sidebar
@@ -98,7 +98,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 
 * If your video is turned off need and you need to move away from the computer for a few minutes, please use the coffee-cup icon to indicate that you are away.
    <p align="center">
-   <img src="img/break.png" width="500">
+   <img src="img/break.png" width="300">
    </p>
 
 ###  Workshop follow up

@@ -13,12 +13,12 @@ These guidelines are for learners taking a hands-on workshop online with the [Ha
 **Zoom Meeting**
 
 We will be using Zoom for the workshop, and a Zoom account is NOT needed to join. We will provide a URL that can be used to join the classroom/meeting with a web browser or with the Zoom app. 
-* If you have the Zoom app downloaded, make sure to select the "Open zoom.us" option at launch to open the Zoom app
+* If you are **using the Zoom app** downloaded, make sure to select the "Open zoom.us" option at launch to open the Zoom app
 <p align="center">
 <img src="img/launch_options.png" width="500">
 </p> 
 
-* If you want to use the browser, select cancel in the pop up window shown above, followed by clicking on "start from your browser" option (shown in the red box)
+* If you are **using the browser**, select cancel in the pop up window shown above, followed by clicking on "start from your browser" option (shown in the red box)
 <p align="center">
 <img src="img/launch_in_browser_box2.png" width="500">
 </p> 
@@ -28,16 +28,11 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 ### Getting started
 
 * Quit/minimize all applications that are not required for class
-* Mute yourself (the meeting host will do this, if you don't)
-<img src="img/.png" width="500">
 
-* Turn off video?
-<img src="img/.png" width="500">
+* If you are **using the Zoom app**, please make sure you go to the "Share Screen" preferences and *uncheck* the "Enter full screen when a participant share screen" option.
+<img src="img/Share_screen_preferences.png" width="500">
 
-* In share screen setting, uncheck first box (enter full screen)
-<img src="img/.png" width="500">
-
-* Find the Chat window in Zoom
+* Open the Chat and Participant windows in Zoom
 <img src="img/.png" width="500">
 
 * Find the following buttons within the Chat sidebar
@@ -50,15 +45,17 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
   * Cross mark (equivalent to a red post-it) - "disagree", "I need help", "unsure"
   <img src="img/.png" width="500">
 
-* Set up the windows to best follow the workshop. 
-  - Examples:
-     * Teaching R with RStudio:
-       * Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
-       <img src="img/Screenshot%202020-03-23%2015.21.10.png" width="500">
-     * Teaching shell:
-       * Zoom screen in upper right-hand half of screen, shell is left-hand half of screen with shell, and materials on the lower right-hand half of screen.
-       <img src="img/.png" width="500">
+* Make sure you are muted during the workshop (the meeting host will do this, if you don't). The meeting host will unmute you as needed.
+<img src="img/.png" width="500">
 
+* Video is optional and it is up to you if you keep it on or off.
+<img src="img/.png" width="500">
+
+* Set up your windows to best follow the workshop. You will have 3 windows open, (1) Zoom, (2) Class lessons and (3) RStudio or Terminal. See below for an example
+   * Example: Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
+   <p align="center">
+   <img src="img/Screenshot%202020-03-23%2015.21.10.png" width="500">
+   </p>
 
 ### During the workshop
 
@@ -81,6 +78,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
   - When the Presenter asks for questions, then you can raise hand and instructor may call on you to ask. There is no guarantee that all questions will be addressed.
   - If question can wait until the end of the lesson, then post question in PollEverywhere and/or upvote relevant questions within PollEverywhere.
   <img src="img/.png" width="500">
+  
   - We will be using PollEverywhere to answer questions at the end of each lesson throughout the workshop. You can connect to our PollEverywhere questions at any time during the workshop at PollEv.com/hbctraining945.
   
 #### Transitions between lessons and breaks

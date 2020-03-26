@@ -65,7 +65,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 * Set up your windows to best follow the workshop. You will have 3 windows open, (1) Zoom, (2) Class lessons and (3) RStudio or Terminal. See below for an example
    * Example: Zoom screen in upper left two-thirds of screen, RStudio in lower right two-thirds of screen, and materials on the right half side behind RStudio.
    <p align="center">
-   <img src="img/Screenshot%202020-03-23%2015.21.10.png" width="500">
+   <img src="img/Screenshot%202020-03-23%2015.21.10.png" width="750">
    </p>
    
 ### During the workshop

@@ -8,30 +8,48 @@ These guidelines are for learners taking a hands-on workshop online with the [Ha
 * Download all required packages and install all required applications
   * Email the HBC Training Team if any of the downloads/installations are problematic
 * Check sound quality on laptop and use headphones if possible
-* We will be using Zoom for the workshop
-  * We will provide a URL that can be used to join the classroom/meeting with a web browser or with the Zoom app
-  * A Zoom account is NOT needed to join the class
 * If a dual monitor is accessible, then this could be quite helpful, though definitely not necessary
+
+**Zoom Meeting**
+
+We will be using Zoom for the workshop, and a Zoom account is NOT needed to join. We will provide a URL that can be used to join the classroom/meeting with a web browser or with the Zoom app. 
+* If you have the Zoom app downloaded, make sure to select the "Open zoom.us" option at launch to open the Zoom app
+<p align="center">
+<img src="img/launch_options.png" width="500">
+</p> 
+
+* If you want to use the browser, select cancel in the pop up window shown above, followed by clicking on "start from your browser" option (shown in the red box)
+<p align="center">
+<img src="img/launch_in_browser_box2.png" width="500">
+</p> 
+
+* If you are able to, please check that your audio (video, is optional) are working well with Zoom before the workshop begins.
 
 ### Getting started
 
 * Quit/minimize all applications that are not required for class
 * Mute yourself (the meeting host will do this, if you don't)
 <img src="img/.png" width="500">
-* Do not share your screen.
+
 * Turn off video?
 <img src="img/.png" width="500">
+
 * In share screen setting, uncheck first box (enter full screen)
 <img src="img/.png" width="500">
+
 * Find the Chat window in Zoom
 <img src="img/.png" width="500">
+
 * Find the following buttons within the Chat sidebar
   * Raise hand
   <img src="img/.png" width="500">
+  
   * Check mark (equivalent to a green post-it) - "agree", "I'm ok"
   <img src="img/.png" width="500">
+  
   * Cross mark (equivalent to a red post-it) - "disagree", "I need help", "unsure"
   <img src="img/.png" width="500">
+
 * Set up the windows to best follow the workshop. 
   - Examples:
      * Teaching R with RStudio:
@@ -49,6 +67,8 @@ These guidelines are for learners taking a hands-on workshop online with the [Ha
 * **Always have the workshop materials open**, and if you fall behind, you can catch up by following the materials. If unable to catch up on your own, you can direct message the Troubleshooter.
 
 * **If Zoom gets disconnected**, just use the same meeting link used to connect initially to re-connect. Use the workshop materials to catch up, and, if unable to catch up on your own, direct message the Troubleshooter.
+
+* **Do not share your screen**, unless an instructor asks you to share for troubleshooting purposes.
 
 #### Questions
 

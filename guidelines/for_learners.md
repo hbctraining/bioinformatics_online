@@ -52,7 +52,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 <img src="img/chat-participants2.png" width="300">
 </p>
 
-* Use the buttoms at the bottom of the Participants sidebar
+* Use the buttons at the bottom of the Participants sidebar
   * ***Raise hand*** when you have a question for the Presenter. Please note that if the presenter doesn't call on you to unmute yourself and ask this question, we recommend posting this question at [PollEv.com/hbctraining945](PollEv.com/hbctraining945).
   * Click on the ***white check mark in green circle*** (yes) to indicate "agree", "I'm all set" *(equivalent to a green post-it)*
   * Click on the ***white "X" in red circle*** (no) to indicate "disagree", "I need help" *(equivalent to a red post-it)*

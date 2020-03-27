@@ -96,7 +96,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 
 * After each lesson, we will take a 5-10 minute break. The Presenter will inform you of the break.
 
-* If your video is turned off need and you need to move away from the computer for a few minutes, please use the coffee-cup icon to indicate that you are away.
+* If your video is turned off and you need to move away from the computer for a few minutes, please use the coffee-cup icon to indicate that you are away.
    <p align="center">
    <img src="img/break.png" width="400">
    </p>

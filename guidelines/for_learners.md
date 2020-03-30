@@ -24,7 +24,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 </p> 
 
 * We will be sending you a link to the Zoom classroom in the preparation email before class. 
-  * You will also receive a **password** to jion the meeting. Please do not share this with others.
+  * You will also receive a **password** to join the meeting. Please do not share this with others.
   * When you join the Zoom meeting, you will be in a **virtual waiting area**, and we will admit everyone to the class 5-10 minutes prior to the start of the lessons.
 
 * If you are able to, please check that your audio (video, is optional) are working well with Zoom before the workshop begins.

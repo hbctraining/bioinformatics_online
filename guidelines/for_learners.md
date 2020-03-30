@@ -23,7 +23,12 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 <img src="img/launch_in_browser_box2.png" width="500">
 </p> 
 
+* We will be sending you a link to the Zoom classroom in the preparation email before class. 
+  * You will also receive a **password** to jion the meeting. Please do not share this with others.
+  * When you join the Zoom meeting, you will be in a **virtual waiting area**, and we will admit everyone to the class 5-10 minutes prior to the start of the lessons.
+
 * If you are able to, please check that your audio (video, is optional) are working well with Zoom before the workshop begins.
+
 
 ### Getting started
 
@@ -53,7 +58,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 </p>
 
 * Use the buttons at the bottom of the Participants sidebar
-  * ***Raise hand*** when you have a question for the Presenter. Please note that if the presenter doesn't call on you to unmute yourself and ask this question, we recommend posting this question at [PollEv.com/hbctraining945](PollEv.com/hbctraining945).
+  * ***Raise hand*** when you have a question for the Presenter. Please note that if the presenter doesn't call on you to unmute yourself and ask this question, we recommend posting this question at [https://PollEv.com/hbctraining945](https://PollEv.com/hbctraining945).
   * Click on the ***white check mark in green circle*** (yes) to indicate "agree", "I'm all set" *(equivalent to a green post-it)*
   * Click on the ***white "X" in red circle*** (no) to indicate "disagree", "I need help" *(equivalent to a red post-it)*
   * We won't be utilizing the rest of the buttons here
@@ -88,8 +93,8 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 
 * **Conceptual learner questions:** 
   - When the Presenter asks for questions, then you can raise hand and instructor may call on you to ask. There is no guarantee that all questions will be addressed.
-  - Post any unasked/unanswered questions in PollEverywhere and/or upvote relevant questions within [PollEv.com/hbctraining945](PollEv.com/hbctraining945).  
-  - You can connect to our PollEverywhere poll at any time during the workshop at [PollEv.com/hbctraining945](PollEv.com/hbctraining945).
+  - Post any unasked/unanswered questions in PollEverywhere and/or upvote relevant questions within [https://PollEv.com/hbctraining945](https://PollEv.com/hbctraining945).  
+  - You can connect to our PollEverywhere poll at any time during the workshop at [https://PollEv.com/hbctraining945](https://PollEv.com/hbctraining945).
   - We will address all the pertinent questions posted on PollEverywhere at the end of each lesson. 
   
 #### Transitions between lessons and breaks

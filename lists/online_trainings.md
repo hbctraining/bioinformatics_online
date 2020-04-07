@@ -65,6 +65,7 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 * [Learning Python using online coding platform](https://www.codecademy.com/learn/learn-python)
 * [Data carpentry workshops](https://datacarpentry.org/lessons/)
 * [Software carpentry workshops](https://software-carpentry.org/lessons/)
+* [Training from the Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/training/upcoming-training-courses#)
 
 ### EdX/Coursera
 

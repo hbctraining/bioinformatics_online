@@ -38,6 +38,7 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 
 * HBC's [Introduction to Bulk RNA-seq workshop (raw data to counts)](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/)
 * HBC's [Differential Gene Expression workshop (counts to DE and functional analysis)](https://hbctraining.github.io/DGE_workshop_salmon/)
+* HBC's (Mary Piper) DataCamp course [RNA-Seq with Bioconductor in R](https://learn.datacamp.com/courses/rna-seq-differential-expression-analysis)
 * Rafa Irizarry's [RNA-seq Gene-Level Analysis (part of PH525X series Biomedical Data Science book)](http://genomicsclass.github.io/book/pages/rnaseq_gene_level.html)
 * DESeq2's [DGE analysis vignette](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
 * EdgeR's [DGE analysis vignette](https://www.bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)

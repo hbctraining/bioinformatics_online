@@ -75,11 +75,11 @@ In this document we will lay out guidelines for various aspects of teaching onli
      * Inform class of transitions, and that class will meet back in 5-10 min. Write out in the chat when we will be returning.
 
 * **Troubleshooter**
-     * Watch Zoom Chat or PollEverywhere for questions and categorize them into 3 groups.
+     * Watch Zoom Chat or PollEverywhere for questions and categorize them into 2 groups.
           1. If conceptual, encourage them to ask in Chat or raise hand when presenter asks for questions.
           2. Answer technical questions in a DM as asked.
      * Zoom breakout room specifics:
-          3. If absolutely need to discuss the question with the learner, then creatge and join learner-specific breakout room. Try to resolve by DM first though. Make sure that we solve all questions for each session before moving forward with the next session. 
+          * If absolutely need to discuss the question with the learner, then creatge and join learner-specific breakout room. Try to resolve by DM first though. Make sure that we solve all questions for each session before moving forward with the next session. 
      * Ask Moderator for help if needed
      * Ask Presenter to stop or slow down as needed based on influx of technical questions
 

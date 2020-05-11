@@ -48,6 +48,7 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 * HBC's [Single-cell RNA-seq Analysis workshop](https://hbctraining.github.io/scRNA-seq/)
 * [Seurat vignettes](https://satijalab.org/seurat/vignettes.html)
 * Hemburg lab's [Analysis of Single Cell RNA-seq Data course](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+* Pachter lab's ["An introduction to single-cell RNA-seq"](https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master/notebooks/Introduction_single_cell_RNA_seq.ipynb)
 
 ### ChIP-seq analysis
 

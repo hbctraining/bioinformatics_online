@@ -77,7 +77,7 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 
 ### Books
 
-* Online Book "[Modern Statistics for Biology](http://web.stanford.edu/class/bios221/book/)" by Susan Holmes and Wokfgang Huber - 
+* Online Book "[Modern Statistics for Biology](http://web.stanford.edu/class/bios221/book/)" by Susan Holmes and Wokfgang Huber
 * "[Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)" by Vince Buffalo 
 
 ### Lists of resources from other sources

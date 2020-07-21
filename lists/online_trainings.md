@@ -15,7 +15,7 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 * [Other online resources](#other-online-resources)
   * [General topics](#general-topics)
   * [EdX/Coursera](#edxcoursera)
-  * [Books](#books)
+  * [Books/YouTube](#booksyoutube)
   * [Lists of resources from other sources](#lists-of-resources-from-other-sources)
 
 ***
@@ -75,10 +75,11 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 * "[Principles, Statistical and Computational Tools for Reproducible Data Science](https://www.edx.org/course/principles-statistical-and-computational-tools-for)" with Curtis Huttenhower, John Quackenbush et al. 
 * "[Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science)" with James Taylor et al from Johns Hopkins University 
 
-### Books
+### Books/YouTube
 
 * Online Book "[Modern Statistics for Biology](http://web.stanford.edu/class/bios221/book/)" by Susan Holmes and Wokfgang Huber - 
 * "[Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)" by Vince Buffalo 
+* Videos explaining statistical concepts: [Statquest with Josh Starmer](https://www.youtube.com/c/joshstarmer/videos)
 
 ### Lists of resources from other sources
 

@@ -68,6 +68,7 @@ This page is our effort ([Harvard Chan Bioinformatics Core](https://bioinformati
 * [Data carpentry workshops](https://datacarpentry.org/lessons/)
 * [Software carpentry workshops](https://software-carpentry.org/lessons/)
 * [Training from the Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/training/upcoming-training-courses#)
+* [Speciation Genomics Course covering basic R, variant calling/filtering, data visualization, and more](https://speciationgenomics.github.io/)
 
 ### EdX/Coursera
 

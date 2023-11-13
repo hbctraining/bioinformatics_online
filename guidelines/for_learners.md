@@ -45,7 +45,7 @@ We will be using Zoom for the workshop, and a Zoom account is NOT needed to join
 <img src="img/icons_audio.png" width="900">
 </p>
 
-* Video is optional and it is up to you if you keep it on or off.
+* While not required, we strongly encourage videos to be on during the workshop. We have found that participants tend to be more engaged in the material when they have their videos on.
 
 <p align="center">
 <img src="img/icons_video.png" width="900">
